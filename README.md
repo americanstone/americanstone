@@ -3,7 +3,7 @@
 
 **americanstone/americanstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=americanstone)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=americanstone)](https://github.com/americanstone)
 
 
 Here are some ideas to get you started:
@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=americanstone)](https://github.com/anuraghazra/github-readme-stats)
+[![Gordon's GitHub stats](https://github-readme-stats.vercel.app/api?username=americanstone)](https://github.com/americanstone)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=americanstone&repo=LiveLessons)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=americanstone&repo=LiveLessons)](https://github.com/americanstone/LiveLessons)
